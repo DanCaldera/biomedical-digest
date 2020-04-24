@@ -1,7 +1,8 @@
 {
-    "name": "biomedical-digest",
-    "integrations": {
-        "capacitor": {}
-    },
-    "type": "react"
+  "name": "biomedical-digest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "42dbb484"
 }
